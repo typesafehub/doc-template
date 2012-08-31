@@ -1,0 +1,10 @@
+/.idea/
+target/
+*.log
+*.iml
+*.pyc
+/\.target/
+/\.cache
+/\.project
+/\.classpath
+/\.settings/

@@ -1,0 +1,1 @@
+addSbtPlugin("com.jsuereth" % "sbt-site-plugin" % "0.4.0")
