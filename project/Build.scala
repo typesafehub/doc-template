@@ -1,8 +1,8 @@
 import sbt._
 import Keys._
 import Tests._
-import com.jsuereth.sbtsite.SphinxSupport.Sphinx
-import com.jsuereth.sbtsite.SitePlugin.site
+import com.typesafe.sbt.SbtSite.site
+import com.typesafe.sbt.site.SphinxSupport.Sphinx
 
 object DocExampleBuild extends Build {
 
